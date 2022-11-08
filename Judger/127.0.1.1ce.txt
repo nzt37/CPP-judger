@@ -1,0 +1,4 @@
+127.0.1.1.cpp: In function ‘int main()’:
+127.0.1.1.cpp:4:10: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+     scanf("%d%d", &a, &b);
+     ~~~~~^~~~~~~~~~~~~~~~

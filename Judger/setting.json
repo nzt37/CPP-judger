@@ -1,0 +1,15 @@
+{
+    "db_user":"root",
+    "db_pass":"051511",
+    "db_ip":"124.222.235.67",
+    "db_port":"3306",
+    "db_database":"cduoj",
+    "server_ip":"127.0.0.1",
+    "server_port":9906,
+    "backend_ip":"47.108.174.183",
+    "backend_port":"8000",
+    "backend_head":"http",
+    "python3_path": "/usr/bin/python3",
+    "python2_path": "/usr/bin/python2.7",
+    "nodownload":"no"
+}

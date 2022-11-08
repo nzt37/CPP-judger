@@ -1,0 +1,8 @@
+{
+    "db_user":"root",
+    "db_pass":"051511",
+    "db_ip":"124.222.235.67",
+    "db_port":"3306",
+    "db_database":"cduoj",
+    "server_port":9906
+}
